@@ -2,8 +2,10 @@
   "name": "functions",
   "description": "Cloud Functions for Firebase",
   "dependencies": {
-    "firebase-admin": "^4.1.2",
-    "firebase-functions": "^0.5"
+		"firebase-admin": "^4.2.0",
+    "firebase-functions": "^0.5",
+		"cors": "^2.8.3",
+		"graphql": "^0.9.2"
   },
   "private": true
 }

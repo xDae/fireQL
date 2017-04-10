@@ -42,3 +42,9 @@ brew cask install graphiql
 ```
 
 Paste your function URL (you will see it after deploying your function) and star testing your grapQL queries
+
+
+## Next steps
+- [ ] test a graphQL client ([Apollo](http://dev.apollodata.com/))
+- [ ] graphQL subscriptions? 🤷🏻‍♂️
+- [ ] upload some demos, better docs...
